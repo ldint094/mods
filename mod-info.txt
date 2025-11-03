@@ -1,9 +1,0 @@
-[mod]
-title:千禧年:热战0.0.3测试版
-description:\n代码支持:094\n格外技术支持:094，老同志，BLANK\n模组宣传：094\n模组贴图：094\n模组目前为测试版本，不代表最终品质，模组内发生的事情和现实无任何关系，如有雷同纯属巧合\n此模组为偏硬核拟真的现代战争模组，游戏内有包含目前已知型号现代单位（由于一些原因，名称可能会对不上），格外有包含未来可能服役单位\n武装冲突模组群：739214824，模组仅发布在群或者铁锈盒子，其他平台目前没有授权
-minVersion:1.15
-[music]
-sourceFolder:music
-whenUsingUnitsFromThisMod_playExclusively:true
-[maps]
-sourceFolder:maps/
